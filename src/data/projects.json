@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Spare parts(warehouse)",
+        "imageSrc": "projects/project.png",
+        "description": "This is my thesis",
+        "skills": [
+            "WordPress",
+            "html",
+            "css",
+            "MYSQL",
+            "PHP"
+        ],
+        "demo": "https://georgethema.infinityfreeapp.com/",
+        "source": "https://github.com/YungGeO/My-Thema"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "REACT",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "JAVASCRIPT",
+        "imageSrc": "skills/javascript.png"
+    },
+    {
+        "title": "PHP",
+        "imageSrc": "skills/php.png"
+    },
+    {
+        "title": "MYSQL",
+        "imageSrc": "skills/mysql.png"
+    },
+    {
+        "title": "C",
+        "imageSrc": "skills/c.png"
+    },
+    {
+        "title": "c#",
+        "imageSrc": "skills/cSharp.png"
+    },
+    {
+        "title": "JAVA",
+        "imageSrc": "skills/java.png"
+    },
+    {
+        "title": "PYTHON",
+        "imageSrc": "skills/python.png"
+    },
+    {
+        "title": "GIT",
+        "imageSrc": "skills/git.png"
+    },
+    {
+        "title": "PROLOG",
+        "imageSrc": "skills/prolog.png"
+    }
+]
