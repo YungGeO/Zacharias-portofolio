@@ -12,5 +12,21 @@
         ],
         "demo": "https://georgethema.infinityfreeapp.com/",
         "source": "https://github.com/YungGeO/My-Thema"
+    },
+    {
+<<<<<<< HEAD
+        "title": "Student grade management system",
+=======
+        "title": "Project name Student grade management system",
+>>>>>>> 14fc2b330e4784c6198fb64e1e2750c8a3c78d61
+        "imageSrc": "projects/project.png",
+        "description": "Assigment 1 for web programming course",
+        "skills": [
+            "Git",
+            "C#",
+            "co pilot use",
+            "back-end "
+        ],
+        "source": "https://github.com/YungGeO/Assigment-1/tree/main"
     }
 ]
