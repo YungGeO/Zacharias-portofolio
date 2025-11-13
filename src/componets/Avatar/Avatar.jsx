@@ -12,7 +12,7 @@ export const Avatar = () => {
             <div className={styles.content}>
                 <h1 className={styles.title}> Hi, I'm George</h1>
                 <p className={styles.description}>Hi i am George i am a junior software developer
-                    certainly working on a full stack course from coursera.
+                    certainly looking for work
                 </p>
                 <a className={styles.contactBtn}
                     href="mailto:zachariasg7@hotmail.gr">Contact Me

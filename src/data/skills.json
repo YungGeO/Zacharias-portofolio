@@ -8,16 +8,8 @@
         "imageSrc": "skills/css.png"
     },
     {
-        "title": "REACT",
-        "imageSrc": "skills/react.png"
-    },
-    {
         "title": "JAVASCRIPT",
         "imageSrc": "skills/javascript.png"
-    },
-    {
-        "title": "PHP",
-        "imageSrc": "skills/php.png"
     },
     {
         "title": "MYSQL",
