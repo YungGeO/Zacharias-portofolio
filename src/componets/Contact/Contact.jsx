@@ -7,7 +7,7 @@ export const Contact = () => {
         <footer id="contact" className={styles.container} >
             <div className={styles.text}>
                 <h2>Contact</h2>
-                <p>Feel free to reach out!</p>
+                <p>Feel free to reach out to me!</p>
             </div>
             <ul className={styles.links}>
                 <li className={styles.link} >
@@ -16,11 +16,11 @@ export const Contact = () => {
                 </li>
                 <li className={styles.link}>
                     <img src={getImageUrl("contact/linkedinIcon.png")} alt="LikedIn icon" />
-                    <a href="https://www.linkedin.com/in/yunggeo">linkedin.com/in/yunggeo</a>
+                    <a href="https://www.linkedin.com/in/georgioszacharias/">linkedin.com/in/georgioszacharias</a>
                 </li>
                 <li className={styles.link} >
                     <img src={getImageUrl("contact/githubIcon.png")} alt="GitHub icon" />
-                    <a href="https://github.com/YungGeO">github.com/YungGeO</a>
+                    <a href="https://github.com/GeorgiosZacharias">github.com/GeorgiosZacharias</a>
                 </li>
             </ul>
         </footer>
