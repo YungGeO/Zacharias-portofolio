@@ -7,11 +7,10 @@
             "WordPress",
             "html",
             "css",
-            "MYSQL",
-            "PHP"
+            "MYSQL"
         ],
         "demo": "https://georgethema.infinityfreeapp.com/",
-        "source": "https://github.com/YungGeO/My-Thema"
+        "source": "https://github.com/GeorgiosZacharias/My-Thema"
     },
     {
         "title": "Student grade management system",
@@ -23,6 +22,6 @@
             "co pilot use",
             "back-end "
         ],
-        "source": "https://github.com/YungGeO/Assigment-1/tree/main"
+        "source": "https://github.com/GeorgiosZacharias/Assigment-1/tree/main"
     }
 ]
