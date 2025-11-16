@@ -47,7 +47,11 @@
     padding: 10px 20px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
-
+.buttonGroup {
+    display: flex;    
+    gap: 20px;         
+    margin-bottom: 50px; 
+}
 .avatarImg {
     width: 20%;
     z-index: 1;
