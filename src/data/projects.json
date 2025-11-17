@@ -23,5 +23,18 @@
             "back-end "
         ],
         "source": "https://github.com/GeorgiosZacharias/Assigment-1/tree/main"
+    },
+     {
+        "title": "Favorite Coctails from a list",
+        "imageSrc": "projects/project.png",
+        "description": "University Team Java Project",
+        "skills": [
+            "Java",
+            "Maven",
+            "Api calls",
+            "back-end ",
+            "design patterns"
+        ],
+        "source": "https://github.com/GeorgiosZacharias/Project"
     }
 ]
