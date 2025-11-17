@@ -25,9 +25,9 @@
         "source": "https://github.com/GeorgiosZacharias/Assigment-1/tree/main"
     },
      {
-        "title": "Favorite Coctails from a list",
+        "title": "Favorite Coctails ",
         "imageSrc": "projects/project.png",
-        "description": "University Team Java Project",
+        "description": "University Team Java Project,using maven,design patterns and api calls",
         "skills": [
             "Java",
             "Maven",
