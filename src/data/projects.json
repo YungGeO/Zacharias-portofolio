@@ -52,5 +52,18 @@
             "CRUD operations"
         ],
         "source": "https://github.com/GeorgiosZacharias/Mobile-Phones-Project"
+    },
+     {
+        "title": "Favorite Coctails ",
+        "imageSrc": "projects/project.png",
+        "description": "University Team Java Project,using maven,design patterns and api calls",
+        "skills": [
+            "Java",
+            "Maven",
+            "Api calls",
+            "back-end ",
+            "design patterns"
+        ],
+        "source": "https://github.com/GeorgiosZacharias/Project"
     }
 ]
