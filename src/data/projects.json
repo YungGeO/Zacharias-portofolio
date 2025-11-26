@@ -23,5 +23,21 @@
             "back-end "
         ],
         "source": "https://github.com/GeorgiosZacharias/Assigment-1/tree/main"
+    },
+     {
+        "title": "University Project  Full-Stack PHP Web Application(e-shop)",
+        "imageSrc": "projects/project.png",
+        "description": "a full-stack system using PHP, MySQL, HTML/CSS, and JavaScript. ",
+        "skills": [
+            "Xampp",
+            "html",
+            "css",
+            "PHP",
+            "team work",
+            "databases",
+            "bootstrap",
+            "CRUD operations"
+        ],
+        "source": "https://github.com/GeorgiosZacharias/Mobile-Phones-Project"
     }
 ]
