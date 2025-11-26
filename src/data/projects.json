@@ -25,6 +25,19 @@
         "source": "https://github.com/GeorgiosZacharias/Assigment-1/tree/main"
     },
      {
+        "title": "Favorite Coctails ",
+        "imageSrc": "projects/project.png",
+        "description": "University Team Java Project,using maven,design patterns and api calls",
+        "skills": [
+            "Java",
+            "Maven",
+            "Api calls",
+            "back-end ",
+            "design patterns"
+        ],
+        "source": "https://github.com/GeorgiosZacharias/Project"
+    },
+     {
         "title": "University Project  Full-Stack PHP Web Application(e-shop)",
         "imageSrc": "projects/project.png",
         "description": "a full-stack system using PHP, MySQL, HTML/CSS, and JavaScript. ",
