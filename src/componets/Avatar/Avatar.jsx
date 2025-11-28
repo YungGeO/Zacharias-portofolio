@@ -4,6 +4,7 @@ import { getImageUrl } from "../../utils";
 
 export const Avatar = () => {
     return (
+        /* Button group container */
         <section className={styles.container}>
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I'm George</h1>
@@ -22,7 +23,7 @@ export const Avatar = () => {
 
                     <a
                         className={styles.contactBtn}
-                        href="/Zacharias-portofolio/CV_Zacharias_Georgios.pdf"
+                        href="/Zacharias-portofolio/CV_Zacharias_Georgios_eng.pdf"
                         download
                     >
                         Download English CV
