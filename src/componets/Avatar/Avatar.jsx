@@ -23,19 +23,13 @@ export const Avatar = () => {
 
                     <a
                         className={styles.contactBtn}
-                        href="/Zacharias-portofolio/CV_Zacharias_Georgios.pdf"
+                        href="/Zacharias-portofolio/CV_Zacharias_Georgios_eng.pdf"
                         download
                     >
-                        Download English CV
+                        Download CV
                     </a>
 
-                    <a
-                        className={styles.contactBtn}
-                        href="/Zacharias-portofolio/CV_Georgios_Zacharias.pdf"
-                        download
-                    >
-                        Download Greek CV
-                    </a>
+
                 </div>
             </div>
 
