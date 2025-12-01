@@ -23,7 +23,7 @@ export const Avatar = () => {
 
                     <a
                         className={styles.contactBtn}
-                        href="/Zacharias-portofolio/CV_Zacharias_Georgios_eng.pdf"
+                        href="/Zacharias-portofolio/CV_Zacharias_Georgios.pdf"
                         download
                     >
                         Download English CV
